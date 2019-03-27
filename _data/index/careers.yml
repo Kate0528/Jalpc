@@ -4,8 +4,7 @@
     detail: Data Analyst Intern
     #i18n: company_a
   desc:
-    detail: * I worked at the Business Intelligence & IT Dept in UW Facilities. 
-            * I'm responsible for the collection, analysis and presentation of business data to improve academic space usage.
+    detail: I worked at the Business Intelligence & IT Dept in UW Facilities. I'm responsible for the collection, analysis and presentation of business data to improve academic space usage.
     #i18n: company_a_desc
   date:
     detail: Mar. 2019
@@ -19,9 +18,7 @@
     detail: Business Analyst Intern
     #i18n: company_b
   desc:
-    detail: * Made seven space metrics dashboards in Tableau to model current space usage by using SQL Server Management Studio (SSMS).  
-            * Served as project consultant to Capital & Space Management team to construct logistic growth model to forecast enrollment number for the Provost’s Space Report project. 
-            * Collated financial and enrollment records from the Enterprise Data Warehouse, a central repository of 5.2 billion records, and extrapolated enrollment trends through next five years.
+    detail: I made seven space metrics dashboards in Tableau to model current space usage by using SQL Server Management Studio (SSMS). I served as project consultant to Capital & Space Management team to construct logistic growth model to forecast enrollment number for the Provost’s Space Report project. I collated financial and enrollment records from the Enterprise Data Warehouse, a central repository of 5.2 billion records, and extrapolated enrollment trends through next five years.
     #i18n: company_b_desc
   date:
     detail: Jul, 2018
@@ -35,10 +32,7 @@
     detail: Consulting Analyst Intern
     #i18n: company_a
   desc:
-    detail: * Assisted to build knowledge graph demos for digital power plants.
-            * Used MS SQL Server to build schema and encode equipment information (340+ devices) into the equipment knowledge base. 
-            * Collaborated with Accenture energy consulting team to improve electromechanical generators’ KPIs in Pu’an Power Plants. 
-            * Studied main functions, key values, features and benefits of industrial services, software and analytic models for the Predix Industrial IoT Platform in GE, and applied these services and analytic models in digital plants for Sinopec Group in China.
+    detail: I assisted to build knowledge graph demos for digital power plants. I used MS SQL Server to build schema and encode equipment information (340+ devices) into the equipment knowledge base. I collaborated with Accenture energy consulting team to improve electromechanical generators’ KPIs in Pu’an Power Plants. I studied main functions, key values, features and benefits of industrial services, software and analytic models for the Predix Industrial IoT Platform in GE, and applied these services and analytic models in digital plants for Sinopec Group in China.
 
     #i18n: company_a_desc
   date:
@@ -53,9 +47,7 @@
     detail: IT Services Intern
     #i18n: company_a
   desc:
-    detail: * I was responsible for daily operations, maintenance, and solutions delivery of BI systems such as O2E, SAP, MIP, Travel & Expense, ESS, etc. 
-            * I provided system training, client support and technical issue resolution. 
-            * I carried out the database disaster recovery system test on SAP
+    detail: I was responsible for daily operations, maintenance, and solutions delivery of BI systems such as O2E, SAP, MIP, Travel & Expense, ESS, etc. I provided system training, client support and technical issue resolution. I carried out the database disaster recovery system test on SAP
     #i18n: company_a_desc
   date:
     detail: Jul. 2016
